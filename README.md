@@ -73,12 +73,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`Hisoka775`](https://github.com/Hisoka775)
+* [`FarilBotz`](https://github.com/FarilBotz)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
