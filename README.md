@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# FarilBotz-
 Script WhatsApp Bot Multi Device
 
 ## NOTE
